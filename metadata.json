@@ -1,0 +1,5 @@
+{
+  "name": "Neon Runner",
+  "description": "A high-performance web-based endless runner featuring object pooling, procedural generation, and state-machine driven character controls.",
+  "requestFramePermissions": []
+}
